@@ -10,7 +10,7 @@ const fishCollection = [
         food: ["algae", "crustaceans"],
         location: "Hawaii",
         length: 340,
-        image: ""
+        image: "images/seahorse.jpg"
     },
 
     {
@@ -18,7 +18,7 @@ const fishCollection = [
         food: ["algae", "little fish"],
         location: "Hawaii",
         length: 15,
-        image: "/crab.jpg"
+        image: "images/crab.jpg"
     },
 
     {
@@ -26,28 +26,28 @@ const fishCollection = [
         food: ["algae", "small crustaceans"],
         location: "Hawaii",
         length: 25,
-        image: "/hfish.jpg"
+        image: "images/hfish.jpg"
     },
     {
         name: "Lisa",
         food: ["algae", "small crustaceans"],
         location: "Hawaii",
         length: 25,
-        image: "eel.jpg"
+        image: "images/catshark.jpg"
     },
     {
         name: "Billy",
         food: ["algae", "small crustaceans"],
         location: "Hawaii",
         length: 25,
-        image: ""
+        image: "images/bullshark.jpg"
     },
     {
         name: "Sid",
         food: ["algae", "small crustaceans"],
         location: "Hawaii",
         length: 25,
-        image: ""
+        image: "images/shark.jpg"
     },
 ]
 

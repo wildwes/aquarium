@@ -2,7 +2,7 @@
 @import 'fish.css';
 
 body {
-  background-color: lime;
+  background-color: darkslategrey;
   box-sizing: border-box;
 }
 
@@ -12,7 +12,7 @@ body {
 }
 
 img {
-  max-width: 100%;
+  max-width: 200px;
 }
 
 aside{
@@ -22,6 +22,6 @@ aside{
 }
 
 .highlightFish {
-    background-color: turquoise;
-    color: turquoise;
+    background-color: darkturquoise;
+    color: darkturquoise;
 }
